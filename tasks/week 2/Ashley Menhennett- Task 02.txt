@@ -1,0 +1,11 @@
+2 a) I think both code of ethics documents are similar in nature and both aim to keep the public at the front of professional's minds, allowing engineers to positively affect the public, while upholding other professional traits.
+
+
+2 b)
+Project- Protect yourself and your data
+- Safety and security features of the application may not be true to label, or may fail
+- All functionality must be vigorously tested and all marketing material must be subject to evaluation by external entity to avoid this
+- Accidental execution of the safety and security features may be misused for hoaxes or abused by malicious users: NOT_SURE_HOW_TO_MITIGATE
+- Malicious users could access safety data sent to next of kin with bad intentions: NOT_SURE_HOW_TO_MITIGATE
+- Malicious users could wipe another's device, without their consent
+- Implement integration with Google Android Device Manager- for Google account password protection
